@@ -2,6 +2,8 @@
 
 Description-A scaled 2D animation of the solar system with the orbital period and planet sizes scaled. The distance between the planets is not scaled.In this animation 1 second in real life is equal to one week in the animation.
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=X0j1o0h6Dvw
+
 # Required
 
 A web browser to run the html file.
